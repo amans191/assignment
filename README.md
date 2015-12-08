@@ -6,11 +6,14 @@ My assignment is also controlled by the makey makey. Each option is controlled b
 
 The website I used for reference is http://www.eia.gov/beta/international/country.cfm?iso=USA.
 
-
+option 4
 ![ScreenShot](http://i.imgur.com/xluIOUv.jpg)
 
+option 3
 ![ScreenShot](http://i.imgur.com/r8QOjpN.jpg)
 
+option 1
 ![ScreenShot](http://i.imgur.com/MWDCz5z.jpg)
 
+main menu
 ![ScreenShot](http://i.imgur.com/iiL8iIQ.jpg)
